@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\screens">
+      <UniqueIdentifier>{87c9d0b7-7599-4165-b525-effe06ec9086}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\screens">
+      <UniqueIdentifier>{ecf92cf9-5cec-4abe-8598-89f5f63326a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\util">
+      <UniqueIdentifier>{6594a8cd-e1fa-4361-ba13-25f5beaddeb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui">
+      <UniqueIdentifier>{4e8b7b89-8a81-44be-b25e-90caec31f7d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements">
+      <UniqueIdentifier>{338c1b2d-98e5-49fa-9ab1-e269570b13ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui">
+      <UniqueIdentifier>{7272770b-1bf0-406b-9b94-5c5a542694b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements">
+      <UniqueIdentifier>{1a22d66c-fd40-4ba8-a99c-048a407a7adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\controls">
+      <UniqueIdentifier>{9c2bc9ba-fcd2-463b-a042-f2a5aa6bbd77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts">
+      <UniqueIdentifier>{b59a8b0c-0ec9-4f76-b712-d9940778b6fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\controls">
+      <UniqueIdentifier>{27fc03ce-95c4-4a49-b5dd-6ce316538768}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\layouts">
+      <UniqueIdentifier>{9e6edd19-8905-4249-aeca-28275921a7bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\layouts\tiles">
+      <UniqueIdentifier>{d9443f12-e57f-4909-9dfd-1d8400c7e11a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\layouts\tiles\tree">
+      <UniqueIdentifier>{04afbfc7-6ab1-4558-952b-a6292d4f2a1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\misc">
+      <UniqueIdentifier>{492ea872-5629-4372-97b3-1bdfa3fc7128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\screens\main">
+      <UniqueIdentifier>{5f14d127-26ae-4222-9848-3c842773d76c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\screens\main">
+      <UniqueIdentifier>{f1d4c74e-15df-465d-b546-ee7e6c8dc95e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\screens\test">
+      <UniqueIdentifier>{0bd9a039-576f-4591-a159-779bef38968a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\screens\test">
+      <UniqueIdentifier>{d2fb24b0-0b7c-41ff-a71f-f79a4758f192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\layouts\flex">
+      <UniqueIdentifier>{4ef13f18-837e-4387-b298-dcc8e74650b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts\flex">
+      <UniqueIdentifier>{aefb2516-6ad2-4de9-bbcb-d762be5725d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\misc">
+      <UniqueIdentifier>{4ac6bbf8-9690-44a1-95d5-332cbaa1fc6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\dialog">
+      <UniqueIdentifier>{97896d57-10ac-4b33-b4a6-952206d1ced2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\dialog">
+      <UniqueIdentifier>{7aef5bf4-8ef9-4f93-9de4-519794c5158d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\dialog\menu">
+      <UniqueIdentifier>{706ee077-36da-4b72-8c38-1af472c31913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\dialog\menu">
+      <UniqueIdentifier>{937cccbe-4101-4586-a5a1-b6d8b95b5f23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\misc\sizing">
+      <UniqueIdentifier>{f8715d64-5dbf-4034-82c6-2bb46bcbd11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\tabs">
+      <UniqueIdentifier>{d6f4a046-27ef-45a5-9ed6-3c76ddf7b88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts\scroll">
+      <UniqueIdentifier>{7d084c5a-fb94-4fe5-b42f-f314a0315f16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts\tabs">
+      <UniqueIdentifier>{5e7f8544-c70e-448f-bc5c-e2678c682c59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts\tiles">
+      <UniqueIdentifier>{1e78d101-0cb8-430c-a93f-9c202976467e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ui\elements\layouts\tiles\tree">
+      <UniqueIdentifier>{026e7c8f-ab32-466b-a71c-dd8dcc9ff8a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\layouts\tabs">
+      <UniqueIdentifier>{0a66eb91-1333-4f8b-958e-58157e187988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\observer">
+      <UniqueIdentifier>{f7ade9bb-1185-4161-bfb6-8129e88cfab8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\scroll">
+      <UniqueIdentifier>{449e708e-9418-4a4c-82f4-3faa4e6edf87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ui\elements\scroll\scrollable">
+      <UniqueIdentifier>{d33856ca-eb76-4447-8776-453986de1639}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="let.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Element.cpp">
+      <Filter>Source Files\ui\elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Splitter.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCellTree.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="GridCell.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles\tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Target.cpp">
+      <Filter>Source Files\ui\elements\layouts\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="TextArea.cpp">
+      <Filter>Source Files\ui\elements\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="UiManager.cpp">
+      <Filter>Source Files\ui\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="UiState.cpp">
+      <Filter>Source Files\ui\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="MainRoot.cpp">
+      <Filter>Source Files\screens\main</Filter>
+    </ClCompile>
+    <ClCompile Include="Ribon.cpp">
+      <Filter>Source Files\screens\main</Filter>
+    </ClCompile>
+    <ClCompile Include="TestRoot.cpp">
+      <Filter>Source Files\screens\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Thickness.cpp">
+      <Filter>Source Files\ui\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="FlexElement.cpp">
+      <Filter>Source Files\ui\elements\layouts\flex</Filter>
+    </ClCompile>
+    <ClCompile Include="FlexData.cpp">
+      <Filter>Source Files\ui\elements\layouts\flex</Filter>
+    </ClCompile>
+    <ClCompile Include="Flexer.cpp">
+      <Filter>Source Files\ui\elements\layouts\flex</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\ui\elements\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialog.cpp">
+      <Filter>Source Files\ui\elements\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Border.cpp">
+      <Filter>Source Files\ui\elements\layouts</Filter>
+    </ClCompile>
+    <ClCompile Include="Parent.cpp">
+      <Filter>Source Files\ui\elements\layouts</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\ui\elements\dialog\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\ui\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Root.cpp">
+      <Filter>Source Files\ui\elements\layouts</Filter>
+    </ClCompile>
+    <ClCompile Include="TabTile.cpp">
+      <Filter>Source Files\ui\elements\layouts\tabs</Filter>
+    </ClCompile>
+    <ClCompile Include="TabControl.cpp">
+      <Filter>Source Files\ui\elements\layouts\tabs</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollPanel.cpp">
+      <Filter>Source Files\ui\elements\layouts\scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="VertBar.cpp">
+      <Filter>Source Files\ui\elements\layouts\scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="HorBar.cpp">
+      <Filter>Source Files\ui\elements\layouts\scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="Content.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Element.h">
+      <Filter>Header Files\ui\elements</Filter>
+    </ClInclude>
+    <ClInclude Include="timehelper.h">
+      <Filter>Header Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="utf8helper.h">
+      <Filter>Header Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files\ui\elements\layouts\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files\ui\elements\layouts\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Splitter.h">
+      <Filter>Header Files\ui\elements\layouts\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Target.h">
+      <Filter>Header Files\ui\elements\layouts\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCell.h">
+      <Filter>Header Files\ui\elements\layouts\tiles\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="GridCellTree.h">
+      <Filter>Header Files\ui\elements\layouts\tiles\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="TextArea.h">
+      <Filter>Header Files\ui\elements\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="Listener.h">
+      <Filter>Header Files\ui\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="UiManager.h">
+      <Filter>Header Files\ui\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="UiState.h">
+      <Filter>Header Files\ui\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="MainRoot.h">
+      <Filter>Header Files\screens\main</Filter>
+    </ClInclude>
+    <ClInclude Include="Ribon.h">
+      <Filter>Header Files\screens\main</Filter>
+    </ClInclude>
+    <ClInclude Include="TestRoot.h">
+      <Filter>Header Files\screens\test</Filter>
+    </ClInclude>
+    <ClInclude Include="FlexData.h">
+      <Filter>Header Files\ui\elements\layouts\flex</Filter>
+    </ClInclude>
+    <ClInclude Include="FlexElement.h">
+      <Filter>Header Files\ui\elements\layouts\flex</Filter>
+    </ClInclude>
+    <ClInclude Include="Flexer.h">
+      <Filter>Header Files\ui\elements\layouts\flex</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\ui\elements\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="Border.h">
+      <Filter>Header Files\ui\elements\layouts</Filter>
+    </ClInclude>
+    <ClInclude Include="Parent.h">
+      <Filter>Header Files\ui\elements\layouts</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialog.h">
+      <Filter>Header Files\ui\elements\dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\ui\elements\dialog\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Alignment.h">
+      <Filter>Header Files\ui\misc\sizing</Filter>
+    </ClInclude>
+    <ClInclude Include="Side.h">
+      <Filter>Header Files\ui\misc\sizing</Filter>
+    </ClInclude>
+    <ClInclude Include="Thickness.h">
+      <Filter>Header Files\ui\misc\sizing</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\ui\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleButton.h">
+      <Filter>Header Files\ui\elements\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="Root.h">
+      <Filter>Header Files\ui\elements\layouts</Filter>
+    </ClInclude>
+    <ClInclude Include="TabTile.h">
+      <Filter>Header Files\ui\elements\layouts\tabs</Filter>
+    </ClInclude>
+    <ClInclude Include="TabControl.h">
+      <Filter>Header Files\ui\elements\layouts\tabs</Filter>
+    </ClInclude>
+    <ClInclude Include="Subject.h">
+      <Filter>Header Files\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Header Files\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="HorBar.h">
+      <Filter>Header Files\ui\elements\scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollPanel.h">
+      <Filter>Header Files\ui\elements\scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="VertBar.h">
+      <Filter>Header Files\ui\elements\scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollContent.h">
+      <Filter>Header Files\ui\elements\scroll\scrollable</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
